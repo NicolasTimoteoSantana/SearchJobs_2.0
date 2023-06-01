@@ -1,0 +1,29 @@
+O que fazer no SearchJobs_2.0 ?
+
+FRONT-END:
+
+1 Adicionar mais paginas.
+
+2 A primeira pagina de explicaçao do site.
+
+3 A segunda pagina sera a de login no site.
+
+4 A terceira pagina sera seu perfil para poder adicionar fotos e seu portifólio.
+
+5 Será a paguna em que ocorrerão as entradas de dados para o inicio das pesquisas 
+	Como: Nome, Idade, Sexo, Pretensão salárial, Área de interesse, Endereço, 
+	ou localidade que possua preferência para poder trabalhar.
+
+6 Página comparador de empregos
+	A página será uma guia que vai comparar as variaveis como Salário, Beneficios, Localidade
+	Buscando o resultado de loxalidade com melhor avaliação, mais beneficios e maior salário.
+
+
+BACK-END:
+
+1 Havera uma chamada de API que ira reunir os dados inseridos na pagina de busca de empregos
+	para poder executar a busca desses dados na internet.
+
+2 API para o google maps ou outra plataforma de gps online para passar a localidade de cada empresa.
+
+3 Lógica ou calculo que fara a comparação de distancia, salário e beneficios. 
